@@ -16,21 +16,27 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer who builds systems that actually scale.
+**AI Engineer who builds systems that actually scale.**
 
-I architect production AI platforms where intelligent automation meets real-world impact.
-From zero to 500K events/day. From concept to 97% accuracy. From prototype to $5M+ ARR.
+I architect production AI platforms where intelligent automation meets real-world impact.  
+Zero → 500K events/day. Concept → 97% accuracy. Prototype → $5M+ ARR.
 
-What drives me:
-- Turning messy problems into elegant, scalable solutions
-- Making AI reliable enough for production (RAG systems, intelligent extraction, real-time inference)
-- Building full-stack: React frontends that feel instant + Node.js backends that never break
-- Shipping code that handles millions of requests without flinching
+### What drives me:
+- **Turning chaos into clarity** – Messy problems become elegant, scalable solutions
+- **Making AI production-ready** – RAG systems that don't hallucinate, inference that's lightning-fast
+- **Building end-to-end** – React frontends that feel instant + Node.js backends that never break
+- **Shipping at scale** – Code that handles millions of requests without breaking a sweat
 
-Tech I love: OpenAI GPT-4 • LangChain • Node.js • React • TypeScript • Python • Vector DBs • Kafka • Azure
+### Tech I live in:
+`OpenAI GPT-4` • `LangChain` • `Node.js` • `React` • `TypeScript` • `Python` • `Vector DBs` • `Kafka` • `Azure`
 
-5+ years shipping production systems | MS Computer Science | NYC
-Always learning. Always building. Always open to the next impossible challenge.
+---
+
+**3+ years shipping production systems** | **MS Computer Science** | **NYC**
+
+Always learning. Always building. Always hunting the next impossible challenge.
+
+**Let's build something remarkable.** 🚀
 
 Let's create something remarkable together.
 
