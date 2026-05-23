@@ -28,7 +28,8 @@ Zero → 500K events/day. Concept → 97% accuracy. Prototype → $5M+ ARR.
 - **Shipping at scale** – Code that handles millions of requests without breaking a sweat
 
 ### Tech I live in:
-`OpenAI GPT-4` • `LangChain` • `Node.js` • `React` • `TypeScript` • `Python` • `Vector DBs` • `Kafka` • `Azure`
+`OpenAI GPT-4` • `LangChain` • `Node.js` • `React` • `TypeScript` • `Python` • `Vector DBs` • `Kafka` • `Azure` • 'Java' •
+
 
 ---
 
@@ -109,7 +110,7 @@ Let's create something remarkable together.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Bethapudianilkumble)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anilkumble_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumble)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-kumble-1638b330a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil077476)
 
 ---
@@ -154,7 +155,7 @@ Let's create something remarkable together.
 I'm always interested in collaborating on innovative projects, discussing tech trends, or connecting with fellow engineers. Feel free to reach out!
 
 - 📧 **Email**: bethapudianilkumble@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/anil-kumble](https://linkedin.com/in/anil-kumble)
+- 💼 **LinkedIn**: [linkedin.com/in/anil-kumble]( )
 - ✍️ **Medium**: [Bethapudianilkumble](https://medium.com/@Bethapudianilkumble)
 - 📸 **Instagram**: [@anilkumble_](https://instagram.com/anilkumble_)
 
