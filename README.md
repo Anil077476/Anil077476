@@ -16,7 +16,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Engineer** with **3+ years** of experience building scalable applications and integrating AI-powered solutions. I specialize in crafting seamless user experiences with **React** and **Next.js**, backend systems with **Java Spring Boot** and **Node.js**, and deploying on **AWS & Azure**. I'm passionate about leveraging **LLMs and AI** to solve real-world problems.
+AI Engineer who builds systems that actually scale.
+
+I architect production AI platforms where intelligent automation meets real-world impact.
+From zero to 500K events/day. From concept to 97% accuracy. From prototype to $5M+ ARR.
+
+What drives me:
+- Turning messy problems into elegant, scalable solutions
+- Making AI reliable enough for production (RAG systems, intelligent extraction, real-time inference)
+- Building full-stack: React frontends that feel instant + Node.js backends that never break
+- Shipping code that handles millions of requests without flinching
+
+Tech I love: OpenAI GPT-4 • LangChain • Node.js • React • TypeScript • Python • Vector DBs • Kafka • Azure
+
+5+ years shipping production systems | MS Computer Science | NYC
+Always learning. Always building. Always open to the next impossible challenge.
+
+Let's create something remarkable together.
 
 - 🚀 Passionate about building **production-grade full stack applications**
 - 🤖 Exploring **AI/LLM integration** and cutting-edge AI technologies
