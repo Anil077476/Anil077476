@@ -131,7 +131,7 @@ I'm a **Full Stack Engineer** with **3+ years** of experience building scalable 
 
 I'm always interested in collaborating on innovative projects, discussing tech trends, or connecting with fellow engineers. Feel free to reach out!
 
-- 📧 **Email**: Contact via GitHub
+- 📧 **Email**: bethapudianilkumble@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/anil-kumble](https://linkedin.com/in/anil-kumble)
 - ✍️ **Medium**: [Bethapudianilkumble](https://medium.com/@Bethapudianilkumble)
 - 📸 **Instagram**: [@anilkumble_](https://instagram.com/anilkumble_)
