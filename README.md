@@ -155,7 +155,7 @@ Let's create something remarkable together.
 I'm always interested in collaborating on innovative projects, discussing tech trends, or connecting with fellow engineers. Feel free to reach out!
 
 - 📧 **Email**: bethapudianilkumble@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/anil-kumble]( )
+- 💼 **LinkedIn**: [linkedin.com/in/anil-kumble]( https://www.linkedin.com/in/anil-kumble-1638b330a)
 - ✍️ **Medium**: [Bethapudianilkumble](https://medium.com/@Bethapudianilkumble)
 - 📸 **Instagram**: [@anilkumble_](https://instagram.com/anilkumble_)
 
